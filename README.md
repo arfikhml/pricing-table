@@ -1,0 +1,2 @@
+# pricing-table
+internal css
